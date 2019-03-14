@@ -38,7 +38,7 @@ Intelligent experiences powered by AI can seem like magic to users. Developing t
 - [Powerpoint](automatedml.pptx)
 - Workshop Content
   - Option 1) [Energy Demand](http://aka.ms/GlobalAINotebook)
-  - Option 2) [Predictive Maintaince](http://aka.ms/GlobalAINotebook1)
+  - Option 2) [Predictive Maintenance](http://aka.ms/GlobalAINotebook1)
 
 
 
