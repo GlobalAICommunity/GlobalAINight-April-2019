@@ -20,6 +20,7 @@ We will cover pre-trained AI APIs, such as computer vision and text analytics, t
 ### Materials
 - [Session owners / Trainers](https://github.com/amynic/ainights-sessionowners)
 - [Public workshop content for attendees](https://github.com/amynic/AINights)
+- [Train the Trainer call recording](https://www.youtube.com/watch?v=RVVGZm63qEs)
 
 
 
