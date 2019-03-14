@@ -11,6 +11,7 @@
 ## Global AI Night Beginner Track
 *Get started quickly with AI with low to no code*
 
+[Train the Trainer call recording](https://www.youtube.com/watch?v=RVVGZm63qEs)
 
 **Creating applications that can see, hear, speak or understand - using Microsoft Cognitive Services (2 hour)**   
 
@@ -26,6 +27,8 @@ We will cover pre-trained AI APIs, such as computer vision and text analytics, t
 
 ## Global AI Night Intermediate Track
 *Build, train and deploy your own machine learning and deep learning models*
+
+[Train the trainer call recording](https://youtu.be/XAk1aLDO-8Y)   
 
 **Part 1: Build models quickly with automated machine learning (1 hour)**
 
